@@ -1,0 +1,2 @@
+rootProject.name = 'BasicGame'
+include 'assets'
