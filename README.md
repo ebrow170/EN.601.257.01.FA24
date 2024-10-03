@@ -10,6 +10,13 @@ We wish to implement a health and mana system as well, along with various items 
 ##Genre: 3D platformer, action-adventure, combat
 	Medieval fantasy, isekai (?) (mario galaxy style)
 
+ ![image](https://github.com/user-attachments/assets/f28a5525-21fd-402f-8b9d-ddf064e2c8dd)
+![image](https://github.com/user-attachments/assets/8d40c548-e152-447a-954c-94ddb916dd51)
+![image](https://github.com/user-attachments/assets/a44c007b-b8c2-4945-8191-c2d8abb24148)
+![image](https://github.com/user-attachments/assets/05f65412-ec7f-4c00-b706-74e74db286ea)
+
+ 
+
 ##Inspiration:
 	Primary inspiration is Super Mario Galaxy (https://www.mariowiki.com/Super_Mario_Galaxy)  and Castle Crashers (https://www.youtube.com/watch?v=vADEvc-e_7I) for mechanics, storyboarding, and level design. Super Smash Brothers Brawl: Subspace Emissary (https://www.youtube.com/watch?v=I40CmnIQemQ) for world map UI design, and Star Fox (https://www.nintendoworldreport.com/hands-on-preview/27220/star-fox-64-3d-nintendo-3ds) for dialogue UI design. Spellbreak (https://steamcommunity.com/app/1399780) for elemental magic system; visual art and music inspiration will depend on what assets we are able to find (plan to look on itch.io)
 (idea: mario-style powerups that change user’s elemental magic?) (A weapon can dictate the element?) (sword infusions?)
@@ -20,6 +27,6 @@ We wish to implement a health and mana system as well, along with various items 
 
  ##Development:
  	##First Deliverable:
-  		We created a very bare bones version of the project for the first level. We have a base representing the landscape, along with boxes representing the castle/base spawn, the User (knight), and one stationary enemy. The user controlled character is able to move along two axis (along the landscape) and when collided with the enemy and on left click, the enemy is "hit". We also created a makeshift start menu before the game starts. For the next iteration we will grow closer to our goal to make the user navigate a 3d plane, but for now we wanted to get the basics down for this iteration. 
+  		We created a very bare bones version of the project for the first level. We have a base representing the landscape, along with boxes representing the castle/base spawn, the User (knight), and one stationary enemy. The user controlled character is able to move along two axis (along the landscape) and when collided with the enemy and on left click, the enemy is "hit". We also created a makeshift start menu before the game starts. This iteration was mainly focusing on getting the core concepts down, but Iteration 2 and 3 will be geared towards building our game towards our final goal.
     ![image](https://github.com/user-attachments/assets/063c8526-6a93-4ef4-8f5f-a2970b07dbe7)
 
